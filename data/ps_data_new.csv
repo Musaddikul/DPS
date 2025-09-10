@@ -1,0 +1,315 @@
+Age,District,Gender,Marital status,Education level,Income level,Appointment ease,Waiting time,Doctor empathy,Doctor listen,Treatment plan,Doctor information,Encouraged questions,Visiting time,Decision involve,Medicine details,Follow-up Recommendation,Ignore patient,Recommend services,Patient satisfaction
+36-45,Nilphamari,Male,Married,Secondary,Lower middle class,No,61-90,Yes,Yes,Yes,No,Yes,5,Yes,No,No,No,Yes,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Lower middle class,No,91-120,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,Yes,Yes,satisfied
+46-55,Kurigram,Female,Married,Illiterate,Lower middle class,Yes,91-120,No,No,No,No,No,4,Yes,No,Yes,No,No,dissatisfied
+16-25,Rangpur,Male,Single,Secondary,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,No,Yes,Yes,satisfied
+16-25,Lalmonirhat,Male,Single,Higher Education,Middle class,No,91-120,Yes,Yes,Yes,Yes,No,5,Yes,Yes,Yes,No,Yes,dissatisfied
+26-35,Kurigram,Male,Single,Higher Education,Lower middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,No,Yes,Yes,satisfied
+26-35,Rangpur,Male,Married,Primary,Lower middle class,Yes,61-90,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Panchagarh,Female,Married,Secondary,Middle class,Yes,121-150,Yes,Yes,No,No,No,7,Yes,No,No,No,Yes,satisfied
+36-45,Rangpur,Male,Married,Higher Education,Lower middle class,No,91-120,No,No,No,No,No,2,No,Yes,No,No,Yes,dissatisfied
+55+,Rangpur,Male,Married,Primary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Primary,Lower Class,No,0-30,Yes,Yes,Yes,No,Yes,7,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Nilphamari,Male,Single,Higher Education,Lower Class,Yes,91-120,Yes,Yes,Yes,Yes,Yes,7,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Nilphamari,Male,Married,Primary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+55+,Rangpur,Male,Married,Primary,Middle class,Yes,121-150,Yes,Yes,Yes,No,Yes,13,Yes,No,Yes,No,Yes,satisfied
+36-45,Dinajpur,Female,Married,Higher Education,Lower middle class,No,61-90,Yes,Yes,Yes,Yes,Yes,8,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Nilphamari,Male,Married,Primary,Lower middle class,Yes,151-180,Yes,Yes,Yes,Yes,Yes,3,Yes,Yes,No,No,Yes,satisfied
+36-45,Thakurgaon,Male,Married,Primary,Lower middle class,No,61-90,Yes,Yes,Yes,Yes,Yes,20,Yes,Yes,No,No,Yes,satisfied
+55+,Rangpur,Male,Married,Primary,Middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Thakurgaon,Female,Married,Secondary,Lower middle class,Yes,91-120,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,No,No,Yes,satisfied
+26-35,Rangpur,Male,Single,Higher Education,Middle class,No,151-180,No,No,No,No,No,4,No,No,Yes,Yes,No,dissatisfied
+36-45,Panchagarh,Male,Married,Higher Education,Middle class,No,91-120,No,No,No,No,Yes,10,No,No,Yes,Yes,Yes,satisfied
+55+,Rangpur,Male,Married,Primary,Lower Class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Male,Single,Primary,Middle class,Yes,31-60,Yes,Yes,Yes,No,Yes,12,Yes,Yes,No,No,Yes,satisfied
+26-35,Nilphamari,Male,Married,Higher Education,Middle class,No,91-120,Yes,Yes,No,No,Yes,10,Yes,No,Yes,No,Yes,satisfied
+16-25,Rangpur,Male,Married,Illiterate,Lower middle class,No,31-60,Yes,Yes,Yes,No,Yes,8,Yes,No,Yes,No,Neutral,satisfied
+55+,Kurigram,Male,Married,Higher Education,Middle class,No,61-90,Yes,Yes,No,No,Yes,20,Yes,No,No,Yes,Yes,satisfied
+16-25,Thakurgaon,Male,Single,Secondary,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Gaibandha,Male,Married,Illiterate,Middle class,Yes,31-60,Yes,No,Yes,Yes,No,7,Yes,Yes,Yes,Yes,Neutral,satisfied
+36-45,Nilphamari,Female,Married,Secondary,Lower middle class,Yes,180+,Yes,Yes,Yes,Yes,Yes,15,Yes,No,Yes,Yes,No,dissatisfied
+26-35,Nilphamari,Female,Married,Illiterate,Lower Class,No,31-60,Yes,Yes,Yes,Yes,Yes,8,Yes,No,No,Yes,Neutral,satisfied
+55+,Kurigram,Male,Married,Higher Education,Upper middle class,Yes,91-120,Yes,Yes,Yes,Yes,No,5,Yes,Yes,No,Yes,Yes,satisfied
+46-55,Kurigram,Male,Married,Secondary,Lower middle class,No,61-90,Yes,No,No,Yes,Yes,5,No,No,Yes,No,Yes,satisfied
+55+,Rangpur,Male,Married,Illiterate,Lower Class,No,61-90,Yes,Yes,Yes,No,No,7,No,No,No,No,Yes,satisfied
+55+,Dinajpur,Male,Married,Higher Education,Upper middle class,No,0-30,Yes,Yes,Yes,No,No,15,No,No,No,Yes,No,dissatisfied
+36-45,Rangpur,Female,Married,Primary,Lower middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Middle class,Yes,151-180,Yes,Yes,Yes,Yes,Yes,15,No,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Male,Single,Secondary,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,Yes,Yes,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Lower middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,12,Yes,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Single,Higher Education,Lower middle class,Yes,61-90,Yes,Yes,No,No,Yes,5,No,Yes,Yes,No,Yes,dissatisfied
+46-55,Lalmonirhat,Female,Married,Primary,Middle class,Yes,151-180,Yes,Yes,Yes,No,Yes,5,No,Yes,Yes,Yes,Yes,satisfied
+36-45,Nilphamari,Male,Single,Higher Education,Middle class,Yes,91-120,Yes,Yes,Yes,Yes,No,7,No,Yes,No,No,Yes,dissatisfied
+16-25,Rangpur,Male,Single,Higher Education,Middle class,Yes,91-120,Yes,Yes,Yes,Yes,Yes,90,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Male,Single,Higher Education,Lower middle class,No,151-180,Yes,Yes,No,Yes,Yes,25,Yes,No,Yes,Yes,Neutral,dissatisfied
+46-55,Kurigram,Female,Married,Higher Education,Middle class,Yes,121-150,Yes,Yes,Yes,Yes,Yes,5,No,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Male,Single,Higher Education,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,30,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Rangpur,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,dissatisfied
+16-25,Rangpur,Male,Single,Secondary,Upper middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,3,Yes,No,No,No,Yes,satisfied
+16-25,Panchagarh,Male,Single,Secondary,Lower middle class,No,0-30,Yes,Yes,No,Yes,Yes,5,Yes,No,No,No,Yes,satisfied
+36-45,Gaibandha,Female,Married,Illiterate,Lower Class,No,151-180,Yes,Yes,No,No,Yes,15,No,No,No,No,Neutral,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Middle class,No,0-30,Yes,Yes,No,No,Yes,3,No,No,No,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Primary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,18,No,No,Yes,No,Yes,satisfied
+26-35,Lalmonirhat,Male,Married,Primary,Lower middle class,No,180+,Yes,Yes,No,No,Yes,10,Yes,No,Yes,No,Yes,satisfied
+26-35,Gaibandha,Male,Married,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,No,No,Yes,No,Yes,satisfied
+26-35,Rangpur,Male,Single,Higher Education,Lower middle class,No,0-30,Yes,Yes,Yes,No,Yes,9,No,No,Yes,No,No,satisfied
+26-35,Gaibandha,Female,Married,Primary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,7,Yes,No,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Illiterate,Lower Class,No,61-90,Yes,Yes,Yes,No,Yes,10,Yes,No,No,No,Neutral,satisfied
+26-35,Lalmonirhat,Male,Single,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,No,Yes,5,No,No,No,No,Yes,satisfied
+16-25,Nilphamari,Female,Married,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,5,No,Yes,Yes,No,Neutral,satisfied
+36-45,Gaibandha,Male,Married,Illiterate,Lower middle class,No,151-180,Yes,Yes,Yes,Yes,Yes,5,Yes,No,No,No,Yes,satisfied
+26-35,Kurigram,Female,Married,Higher Education,Middle class,Yes,0-30,Yes,Yes,No,Yes,Yes,15,No,Yes,Yes,No,Yes,satisfied
+55+,Rangpur,Female,Married,Illiterate,Middle class,No,91-120,Yes,Yes,Yes,No,Yes,10,No,No,Yes,No,Yes,satisfied
+46-55,Rangpur,Male,Married,Secondary,Middle class,No,91-120,Yes,Yes,No,No,Yes,15,Yes,No,Yes,No,Neutral,dissatisfied
+46-55,Rangpur,Female,Married,Secondary,Middle class,No,151-180,Yes,Yes,No,Yes,Yes,15,No,No,Yes,No,Yes,satisfied
+55+,Gaibandha,Male,Married,Secondary,Lower Class,Yes,0-30,Yes,Yes,Yes,No,Yes,5,No,No,Yes,No,Yes,satisfied
+46-55,Rangpur,Male,Married,Secondary,Lower middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,7,Yes,No,No,No,Neutral,satisfied
+26-35,Lalmonirhat,Female,Married,Primary,Middle class,No,0-30,Yes,Yes,No,No,Yes,8,No,No,Yes,No,Neutral,satisfied
+36-45,Rangpur,Female,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,No,Yes,Yes,8,No,Yes,Yes,No,Neutral,satisfied
+36-45,Kurigram,Female,Married,Higher Education,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,No,Yes,Yes,No,Yes,satisfied
+36-45,Kurigram,Female,Married,Secondary,Middle class,No,31-60,Yes,Yes,No,No,No,8,Yes,No,No,No,Yes,satisfied
+26-35,Gaibandha,Female,Single,Primary,Lower middle class,Yes,0-30,Yes,Yes,Yes,No,Yes,6,Yes,No,Yes,No,Yes,satisfied
+16-25,Kurigram,Male,Single,Higher Education,Lower middle class,No,151-180,Yes,Yes,No,Yes,Yes,10,Yes,No,Yes,No,No,dissatisfied
+46-55,Gaibandha,Female,Married,Illiterate,Lower Class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,4,Yes,No,Yes,No,Yes,satisfied
+26-35,Gaibandha,Male,Married,Secondary,Lower Class,No,0-30,Yes,Yes,Yes,No,Yes,10,No,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Primary,Middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,5,No,Yes,Yes,No,Yes,satisfied
+46-55,Nilphamari,Male,Married,Illiterate,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Kurigram,Male,Married,Higher Education,Lower middle class,Yes,61-90,Yes,Yes,No,No,Yes,15,Yes,No,Yes,No,Yes,satisfied
+36-45,Nilphamari,Female,Married,Secondary,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,No,Yes,5,No,Yes,Yes,No,Neutral,satisfied
+16-25,Rangpur,Male,Single,Illiterate,Lower middle class,No,61-90,Yes,Yes,Yes,No,Yes,7,No,No,Yes,No,Yes,satisfied
+55+,Rangpur,Female,Married,Illiterate,Lower middle class,Yes,0-30,Yes,Yes,No,Yes,Yes,4,No,Yes,Yes,No,Neutral,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,3,Yes,No,No,No,Neutral,satisfied
+55+,Rangpur,Female,Widowed,Illiterate,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,5,No,Yes,Yes,No,Yes,satisfied
+26-35,Nilphamari,Male,Single,Higher Education,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,No,No,Yes,satisfied
+16-25,Nilphamari,Male,Single,Higher Education,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,satisfied
+55+,Gaibandha,Female,Married,Secondary,Middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,20,Yes,Yes,Yes,Yes,Yes,satisfied
+36-45,Kurigram,Female,Married,Secondary,Upper middle class,Yes,61-90,Yes,Yes,Yes,No,Yes,10,No,Yes,Yes,No,Yes,satisfied
+46-55,Gaibandha,Female,Married,Illiterate,Lower Class,Yes,121-150,Yes,No,Yes,No,No,6,No,Yes,Yes,Yes,Yes,satisfied
+55+,Rangpur,Male,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Kurigram,Female,Married,Primary,Lower middle class,Yes,61-90,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Lalmonirhat,Male,Single,Secondary,Lower middle class,Yes,31-60,Yes,Yes,No,Yes,No,5,No,Yes,Yes,No,Yes,dissatisfied
+16-25,Nilphamari,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,40,No,Yes,Yes,No,Yes,satisfied
+16-25,Kurigram,Female,Single,Primary,Lower middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Lalmonirhat,Female,Married,Secondary,Upper middle class,Yes,31-60,Yes,Yes,Yes,No,No,3,No,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,No,No,Yes,Yes,Neutral,dissatisfied
+26-35,Panchagarh,Male,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,Yes,Yes,Yes,Yes,Yes,dissatisfied
+16-25,Rangpur,Female,Married,Secondary,Upper middle class,Yes,31-60,Yes,Yes,Yes,No,No,5,No,Yes,Yes,No,Yes,satisfied
+16-25,Kurigram,Male,Single,Secondary,Middle class,Yes,0-30,No,No,Yes,Yes,Yes,15,Yes,Yes,Yes,Yes,Yes,satisfied
+26-35,Rangpur,Female,Married,Secondary,Lower Class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,30,No,Yes,Yes,No,Yes,satisfied
+46-55,Rangpur,Male,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,No,Yes,No,Yes,satisfied
+55+,Rangpur,Male,Married,Illiterate,Lower Class,Yes,31-60,Yes,Yes,Yes,Yes,No,20,No,Yes,Yes,No,Yes,satisfied
+55+,Rangpur,Female,Widowed,Illiterate,Lower Class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,5,No,Yes,Yes,Yes,Neutral,satisfied
+55+,Rangpur,Male,Married,Illiterate,Lower Class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,4,No,No,Yes,No,Neutral,satisfied
+16-25,Rangpur,Female,Single,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,No,No,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Single,Secondary,Middle class,Yes,0-30,Yes,No,Yes,No,Yes,8,No,Yes,Yes,No,No,dissatisfied
+16-25,Rangpur,Female,Single,Higher Education,Upper middle class,Yes,91-120,Yes,Yes,No,No,Yes,7,No,No,Yes,No,Yes,dissatisfied
+26-35,Rangpur,Female,Married,Higher Education,Middle class,Yes,0-30,No,No,No,No,No,5,No,No,Yes,Yes,No,dissatisfied
+26-35,Rangpur,Female,Married,Higher Education,Middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,12,No,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,8,No,No,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,No,Yes,No,Yes,satisfied
+55+,Rangpur,Male,Married,Secondary,Middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,12,No,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,12,No,No,Yes,No,Neutral,satisfied
+26-35,Rangpur,Male,Single,Higher Education,Upper middle class,Yes,91-120,Yes,Yes,No,No,Yes,7,No,No,Yes,No,Neutral,dissatisfied
+36-45,Rangpur,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,No,Yes,Yes,8,Yes,No,Yes,No,No,dissatisfied
+16-25,Panchagarh,Male,Single,Secondary,Lower middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,4,No,No,Yes,No,Neutral,satisfied
+55+,Gaibandha,Male,Married,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,No,Yes,Yes,No,Yes,satisfied
+55+,Kurigram,Female,Married,Illiterate,Lower Class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,5,No,No,Yes,Yes,Neutral,satisfied
+36-45,Gaibandha,Female,Married,Secondary,Middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,15,No,No,Yes,No,Neutral,satisfied
+26-35,Rangpur,Female,Married,Primary,Lower Class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,No,Yes,No,No,Yes,satisfied
+46-55,Gaibandha,Male,Married,Illiterate,Lower Class,Yes,0-30,Yes,Yes,No,Yes,Yes,15,No,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Single,Higher Education,Middle class,Yes,61-90,Yes,Yes,No,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Lower middle class,Yes,180+,No,No,No,No,No,1,No,No,No,Yes,No,dissatisfied
+55+,Lalmonirhat,Male,Married,Primary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+55+,Dinajpur,Male,Married,Primary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,6,Yes,No,Yes,No,Neutral,satisfied
+26-35,Thakurgaon,Male,Single,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,5,No,Yes,No,No,Neutral,satisfied
+46-55,Rangpur,Male,Married,Higher Education,Lower middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,12,No,No,Yes,No,Yes,satisfied
+55+,Rangpur,Male,Married,Secondary,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,20,Yes,Yes,Yes,No,Yes,dissatisfied
+55+,Nilphamari,Male,Married,Higher Education,Middle class,No,31-60,Yes,Yes,No,No,Yes,10,No,No,Yes,No,Yes,satisfied
+55+,Rangpur,Female,Married,Illiterate,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,4,Yes,No,Yes,No,No,dissatisfied
+36-45,Rangpur,Female,Married,Higher Education,Upper middle class,Yes,31-60,Yes,Yes,Yes,No,Yes,30,No,Yes,No,No,Yes,satisfied
+55+,Rangpur,Female,Married,Secondary,Middle class,No,91-120,Yes,Yes,Yes,No,Yes,30,Yes,Yes,Yes,No,Yes,dissatisfied
+26-35,Nilphamari,Male,Single,Higher Education,Lower middle class,No,0-30,Yes,Yes,No,No,Yes,15,Yes,No,No,No,Yes,satisfied
+55+,Gaibandha,Male,Married,Primary,Middle class,Yes,61-90,Yes,Yes,Yes,No,Yes,25,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Dinajpur,Male,Married,Primary,Lower Class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,No,No,Yes,No,Yes,satisfied
+46-55,Kurigram,Male,Married,Higher Education,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+55+,Kurigram,Male,Married,Higher Education,Upper middle class,No,31-60,Yes,Yes,Yes,No,No,15,Yes,No,No,No,Neutral,satisfied
+55+,Lalmonirhat,Male,Married,Illiterate,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Rangpur,Female,Married,Secondary,Middle class,Yes,31-60,Yes,Yes,Yes,No,Yes,15,No,Yes,Yes,No,Yes,satisfied
+46-55,Rangpur,Male,Married,Higher Education,Middle class,Yes,31-60,Yes,Yes,Yes,No,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Male,Single,Primary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,No,Yes,Yes,No,Yes,satisfied
+55+,Rangpur,Male,Married,Illiterate,Lower Class,No,91-120,Yes,Yes,Yes,Yes,Yes,10,Yes,No,Yes,No,No,satisfied
+55+,Rangpur,Male,Married,Illiterate,Middle class,Yes,151-180,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Rangpur,Female,Married,Primary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,No,Yes,No,Yes,satisfied
+36-45,Kurigram,Female,Married,Illiterate,Lower Class,No,0-30,Yes,Yes,Yes,Yes,Yes,3,No,No,No,Yes,Neutral,satisfied
+26-35,Nilphamari,Female,Married,Primary,Lower Class,No,0-30,Yes,Yes,No,No,No,15,No,No,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Single,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,4,No,Yes,Yes,No,Neutral,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,4,Yes,No,No,No,Neutral,satisfied
+46-55,Rangpur,Male,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,No,No,Yes,5,No,Yes,Yes,No,No,dissatisfied
+55+,Rangpur,Male,Married,Higher Education,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,8,No,No,Yes,No,Neutral,satisfied
+36-45,Rangpur,Female,Married,Secondary,Upper middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,10,No,Yes,Yes,No,Yes,satisfied
+26-35,Nilphamari,Male,Married,Secondary,Middle class,No,151-180,Yes,Yes,Yes,No,Yes,20,Yes,Yes,Yes,No,Yes,satisfied
+55+,Panchagarh,Female,Married,Illiterate,Lower Class,No,91-120,Yes,Yes,Yes,No,Yes,10,Yes,No,Yes,No,Yes,satisfied
+55+,Rangpur,Male,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+36-45,Lalmonirhat,Female,Married,Illiterate,Lower middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,5,No,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,12,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Rangpur,Female,Married,Primary,Middle class,No,61-90,Yes,Yes,Yes,Yes,Yes,5,No,Yes,Yes,No,Yes,satisfied
+26-35,Lalmonirhat,Male,Single,Higher Education,Middle class,No,180+,Yes,Yes,Yes,No,Yes,10,Yes,No,Yes,No,Yes,dissatisfied
+55+,Gaibandha,Male,Widowed,Illiterate,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+46-55,Nilphamari,Male,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,No,Yes,Neutral,satisfied
+55+,Rangpur,Male,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Nilphamari,Male,Married,Illiterate,Lower Class,No,180+,No,Yes,No,No,Yes,5,No,No,No,Yes,Yes,dissatisfied
+46-55,Gaibandha,Female,Married,Illiterate,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,No,Yes,Yes,No,Yes,satisfied
+46-55,Gaibandha,Female,Married,Primary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Neutral,satisfied
+36-45,Rangpur,Female,Married,Secondary,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,5,No,Yes,Yes,No,Yes,satisfied
+55+,Nilphamari,Male,Married,Primary,Lower Class,No,91-120,No,Yes,Yes,No,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Single,Higher Education,Middle class,Yes,31-60,Yes,Yes,No,No,Yes,5,No,Yes,No,No,Neutral,dissatisfied
+16-25,Kurigram,Male,Single,Higher Education,Lower middle class,Yes,0-30,Yes,Yes,No,Yes,Yes,8,Yes,No,Yes,No,Neutral,satisfied
+36-45,Rangpur,Female,Married,Illiterate,Lower middle class,Yes,0-30,Yes,Yes,Yes,No,Yes,8,No,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Neutral,satisfied
+36-45,Gaibandha,Female,Married,Primary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Middle class,No,0-30,Yes,Yes,No,No,Yes,5,Yes,No,No,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Secondary,Lower Class,No,91-120,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Primary,Lower Class,No,91-120,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Illiterate,Lower Class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,20,No,Yes,Yes,No,Yes,satisfied
+26-35,Kurigram,Female,Married,Higher Education,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,No,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,No,Yes,Yes,5,No,Yes,Yes,No,Yes,satisfied
+26-35,Gaibandha,Male,Married,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Gaibandha,Male,Married,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,6,No,Yes,Yes,No,Yes,satisfied
+46-55,Gaibandha,Male,Married,Secondary,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Single,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,No,Yes,10,No,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Upper middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,Yes,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Upper middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,15,No,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Upper middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,8,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Upper middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,12,No,No,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Upper middle class,No,61-90,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Upper middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,4,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Gaibandha,Male,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Secondary,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,12,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Gaibandha,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Male,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,12,No,Yes,Yes,No,Yes,satisfied
+55+,Rangpur,Male,Married,Illiterate,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Male,Single,Higher Education,Upper middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Male,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,No,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Single,Higher Education,Upper middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,13,No,Yes,Yes,No,Neutral,satisfied
+46-55,Rangpur,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,7,No,Yes,Yes,No,Yes,satisfied
+55+,Lalmonirhat,Male,Married,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,12,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Upper middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,12,No,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Male,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Rangpur,Male,Married,Secondary,Upper middle class,No,61-90,No,No,No,No,No,5,No,Yes,Yes,Yes,No,dissatisfied
+46-55,Thakurgaon,Female,Married,Illiterate,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Thakurgaon,Male,Married,Illiterate,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,Yes,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Single,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,No,No,Yes,6,No,Yes,No,No,Yes,satisfied
+46-55,Nilphamari,Male,Married,Primary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,Yes,Yes,Yes,No,Yes,satisfied
+55+,Thakurgaon,Male,Married,Higher Education,Upper middle class,No,61-90,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Lalmonirhat,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+46-55,Rangpur,Male,Married,Illiterate,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Thakurgaon,Male,Married,Secondary,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Single,Higher Education,Upper middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,7,No,No,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Higher Education,Upper middle class,No,61-90,Yes,Yes,Yes,Yes,Yes,20,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,6,No,Yes,Yes,No,Yes,satisfied
+46-55,Gaibandha,Male,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,7,No,Yes,Yes,No,Yes,satisfied
+36-45,Kurigram,Female,Married,Higher Education,Middle class,Yes,0-30,Yes,Yes,No,Yes,Yes,6,No,Yes,Yes,No,Neutral,satisfied
+36-45,Lalmonirhat,Female,Married,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Gaibandha,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,6,Yes,Yes,Yes,No,Yes,satisfied
+55+,Rangpur,Female,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,12,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Gaibandha,Female,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,12,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Male,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Illiterate,Middle class,No,0-30,Yes,Yes,Yes,No,Yes,20,Yes,No,No,No,Neutral,satisfied
+55+,Gaibandha,Male,Married,Primary,Lower middle class,No,0-30,Yes,Yes,Yes,No,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Primary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,dissatisfied
+55+,Nilphamari,Male,Married,Illiterate,Lower middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Gaibandha,Male,Married,Primary,Lower middle class,No,151-180,Yes,Yes,No,No,No,7,No,Yes,Yes,No,Yes,satisfied
+36-45,Dinajpur,Male,Married,Primary,Lower middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,Yes,Yes,satisfied
+36-45,Rangpur,Female,Married,Secondary,Lower middle class,No,151-180,Yes,Yes,No,No,Yes,10,No,No,Yes,No,Yes,satisfied
+36-45,Lalmonirhat,Male,Married,Secondary,Middle class,No,121-150,No,No,Yes,Yes,No,10,Yes,No,Yes,No,Yes,satisfied
+55+,Nilphamari,Male,Married,Illiterate,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,No,20,Yes,No,Yes,Yes,No,satisfied
+46-55,Rangpur,Female,Married,Secondary,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,30,Yes,Yes,Yes,Yes,Yes,satisfied
+36-45,Rangpur,Female,Married,Higher Education,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+55+,Kurigram,Male,Married,Illiterate,Lower middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,12,Yes,No,Yes,No,Yes,satisfied
+46-55,Nilphamari,Female,Married,Secondary,Lower middle class,No,121-150,Yes,No,Yes,Yes,No,10,No,Yes,Yes,No,Yes,satisfied
+46-55,Nilphamari,Female,Married,Illiterate,Lower Class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,12,No,No,Yes,Yes,Neutral,satisfied
+16-25,Kurigram,Female,Married,Primary,Lower Class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,Yes,Yes,satisfied
+36-45,Rangpur,Female,Married,Higher Education,Middle class,Yes,31-60,Yes,Yes,No,Yes,Yes,20,No,No,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Primary,Lower middle class,No,91-120,Yes,Yes,Yes,No,Yes,20,Yes,Yes,Yes,Yes,Yes,satisfied
+46-55,Rangpur,Male,Married,Higher Education,Upper middle class,No,121-150,Yes,Yes,Yes,No,Yes,20,No,No,Yes,No,Neutral,satisfied
+36-45,Dinajpur,Male,Married,Primary,Lower middle class,Yes,0-30,Yes,Yes,No,No,Yes,7,No,No,Yes,No,Neutral,dissatisfied
+55+,Lalmonirhat,Female,Married,Primary,Lower Class,No,151-180,Yes,Yes,Yes,No,Yes,5,No,No,Yes,Yes,Neutral,dissatisfied
+55+,Gaibandha,Female,Widowed,Illiterate,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,No,Yes,No,Neutral,satisfied
+46-55,Dinajpur,Male,Married,Secondary,Middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,dissatisfied
+55+,Rangpur,Male,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,20,Yes,Yes,Yes,Yes,Yes,satisfied
+55+,Rangpur,Female,Married,Illiterate,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,No,No,dissatisfied
+36-45,Nilphamari,Male,Married,Secondary,Middle class,No,151-180,Yes,Yes,Yes,No,Yes,5,No,No,Yes,No,Yes,satisfied
+46-55,Rangpur,Female,Married,Illiterate,Middle class,No,31-60,No,Yes,Yes,No,No,15,No,No,No,Yes,Neutral,satisfied
+36-45,Rangpur,Female,Married,Higher Education,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,20,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Thakurgaon,Female,Married,Secondary,Middle class,Yes,180+,Yes,Yes,No,No,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+55+,Rangpur,Female,Married,Primary,Lower Class,Yes,61-90,Yes,Yes,Yes,Yes,Yes,25,Yes,Yes,Yes,Yes,Yes,satisfied
+26-35,Rangpur,Male,Married,Higher Education,Middle class,No,31-60,No,Yes,Yes,No,Yes,5,No,No,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Single,Illiterate,Lower middle class,Yes,91-120,Yes,Yes,Yes,No,No,10,Yes,No,Yes,No,Yes,satisfied
+55+,Rangpur,Female,Married,Illiterate,Lower Class,No,0-30,Yes,Yes,Yes,No,Yes,3,No,No,No,No,Neutral,satisfied
+36-45,Rangpur,Female,Married,Secondary,Lower middle class,Yes,61-90,Yes,Yes,Yes,Yes,Yes,6,No,No,Yes,No,Neutral,satisfied
+26-35,Nilphamari,Female,Married,Secondary,Middle class,Yes,121-150,Yes,Yes,Yes,Yes,Yes,20,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Gaibandha,Male,Married,Higher Education,Upper middle class,Yes,151-180,Yes,Yes,Yes,Yes,Yes,45,Yes,No,Yes,No,Yes,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Lower middle class,No,61-90,No,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+46-55,Rangpur,Female,Married,Illiterate,Lower Class,No,0-30,Yes,Yes,No,No,No,4,No,No,No,Yes,No,satisfied
+36-45,Lalmonirhat,Female,Married,Illiterate,Lower middle class,No,91-120,Yes,No,No,No,Yes,5,No,No,Yes,Yes,Neutral,dissatisfied
+55+,Dinajpur,Male,Married,Secondary,Middle class,No,180+,Yes,Yes,Yes,No,Yes,7,No,No,No,No,Neutral,satisfied
+55+,Kurigram,Male,Married,Higher Education,Middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,13,Yes,Yes,Yes,No,Yes,satisfied
+55+,Gaibandha,Female,Married,Illiterate,Middle class,No,151-180,No,Yes,Yes,No,Yes,30,No,Yes,Yes,No,Neutral,satisfied
+55+,Gaibandha,Male,Married,Illiterate,Lower middle class,Yes,0-30,Yes,Yes,No,No,Yes,3,No,No,Yes,No,Yes,dissatisfied
+46-55,Thakurgaon,Male,Married,Primary,Lower middle class,No,31-60,Yes,Yes,Yes,No,Yes,8,Yes,Yes,No,No,Neutral,satisfied
+26-35,Lalmonirhat,Female,Single,Secondary,Middle class,Yes,91-120,Yes,Yes,Yes,No,No,5,No,No,Yes,Yes,No,dissatisfied
+55+,Lalmonirhat,Male,Married,Secondary,Lower middle class,No,61-90,Yes,Yes,Yes,No,Yes,12,Yes,No,Yes,No,No,satisfied
+46-55,Lalmonirhat,Female,Married,Higher Education,Middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,15,No,No,Yes,Yes,Yes,satisfied
+36-45,Nilphamari,Female,Married,Primary,Lower Class,Yes,61-90,Yes,Yes,No,Yes,No,5,No,No,No,Yes,Yes,satisfied
+16-25,Nilphamari,Female,Married,Primary,Lower Class,No,151-180,Yes,Yes,No,No,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Upper middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,No,Yes,Yes,No,Yes,satisfied
+16-25,Dinajpur,Female,Single,Primary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+26-35,Thakurgaon,Male,Married,Secondary,Middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,7,Yes,No,No,No,Neutral,satisfied
+55+,Rangpur,Female,Married,Illiterate,Lower Class,No,0-30,Yes,Yes,Yes,Yes,Yes,20,No,Yes,Yes,No,Yes,satisfied
+36-45,Nilphamari,Female,Married,Higher Education,Middle class,No,0-30,Yes,Yes,Yes,Yes,Yes,5,Yes,No,Yes,No,Yes,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Middle class,No,91-120,Yes,Yes,Yes,No,Yes,10,Yes,No,No,Yes,Yes,satisfied
+36-45,Nilphamari,Female,Married,Primary,Lower middle class,Yes,91-120,Yes,Yes,Yes,Yes,Yes,15,No,No,Yes,No,Yes,satisfied
+46-55,Nilphamari,Male,Married,Secondary,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Lalmonirhat,Female,Married,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,No,Yes,10,No,No,Yes,Yes,Yes,satisfied
+36-45,Gaibandha,Female,Married,Secondary,Lower middle class,No,31-60,Yes,Yes,Yes,Yes,Yes,13,Yes,No,Yes,No,Neutral,satisfied
+36-45,Gaibandha,Female,Married,Higher Education,Middle class,Yes,0-30,Yes,Yes,No,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Female,Married,Secondary,Middle class,No,0-30,Yes,Yes,No,No,Yes,5,No,No,Yes,Yes,No,satisfied
+16-25,Rangpur,Female,Married,Primary,Lower Class,No,91-120,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+36-45,Rangpur,Female,Married,Illiterate,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,8,No,Yes,Yes,No,Neutral,satisfied
+16-25,Rangpur,Female,Single,Higher Education,Lower Class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,satisfied
+16-25,Nilphamari,Female,Single,Higher Education,Lower middle class,Yes,61-90,Yes,Yes,Yes,Yes,Yes,7,Yes,Yes,No,No,Yes,satisfied
+16-25,Dinajpur,Female,Married,Higher Education,Lower Class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,No,No,Yes,satisfied
+16-25,Gaibandha,Male,Single,Higher Education,Lower Class,Yes,91-120,Yes,No,Yes,Yes,No,5,Yes,No,Yes,Yes,Yes,satisfied
+16-25,Kurigram,Male,Single,Higher Education,Lower middle class,No,31-60,No,No,No,No,Yes,5,Yes,No,Yes,No,Neutral,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Lower Class,Yes,121-150,Yes,Yes,No,No,No,4,No,No,Yes,Yes,Yes,satisfied
+16-25,Dinajpur,Female,Single,Higher Education,Lower Class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+16-25,Gaibandha,Female,Single,Higher Education,Middle class,Yes,121-150,Yes,Yes,Yes,Yes,Yes,18,No,Yes,Yes,No,Neutral,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Middle class,No,91-120,Yes,Yes,Yes,Yes,Yes,5,No,No,Yes,Yes,Yes,satisfied
+16-25,Other,Male,Single,Higher Education,Lower middle class,Yes,31-60,Yes,Yes,Yes,No,Yes,5,No,No,Yes,No,Yes,satisfied
+26-35,Rangpur,Female,Married,Higher Education,Middle class,Yes,61-90,No,No,No,No,Yes,2,No,No,Yes,No,Neutral,dissatisfied
+16-25,Other,Female,Single,Higher Education,Lower middle class,No,31-60,Yes,Yes,No,Yes,Yes,5,Yes,Yes,No,No,No,dissatisfied
+16-25,Rangpur,Female,Single,Higher Education,Middle class,No,121-150,Yes,Yes,Yes,Yes,Yes,12,Yes,Yes,Yes,Yes,Yes,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Lower middle class,Yes,31-60,Yes,Yes,No,No,Yes,5,No,No,Yes,No,Neutral,dissatisfied
+16-25,Rangpur,Female,Single,Higher Education,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,No,Yes,No,Yes,satisfied
+16-25,Dinajpur,Male,Single,Higher Education,Lower Class,Yes,31-60,Yes,Yes,No,No,Yes,10,No,No,Yes,Yes,Yes,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Lower middle class,Yes,61-90,Yes,Yes,Yes,No,No,5,Yes,Yes,Yes,Yes,Yes,satisfied
+26-35,Other,Female,Single,Higher Education,Lower Class,No,31-60,Yes,Yes,Yes,Yes,Yes,8,Yes,Yes,Yes,No,Neutral,dissatisfied
+16-25,Gaibandha,Male,Single,Higher Education,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Lower Class,No,61-90,Yes,No,No,Yes,Yes,12,No,No,No,Yes,Neutral,dissatisfied
+16-25,Rangpur,Male,Single,Higher Education,Lower middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,7,No,No,Yes,Yes,Neutral,dissatisfied
+16-25,Dinajpur,Male,Single,Higher Education,Upper middle class,Yes,0-30,No,No,No,No,Yes,4,No,No,Yes,Yes,Neutral,dissatisfied
+16-25,Lalmonirhat,Male,Single,Higher Education,Lower Class,No,151-180,Yes,Yes,Yes,Yes,Yes,10,No,Yes,No,No,Neutral,satisfied
+16-25,Gaibandha,Male,Single,Higher Education,Lower Class,No,31-60,Yes,Yes,Yes,No,Yes,10,Yes,Yes,Yes,No,Neutral,satisfied
+16-25,Kurigram,Female,Single,Higher Education,Lower Class,Yes,31-60,Yes,Yes,Yes,Yes,No,10,Yes,No,Yes,No,Yes,satisfied
+16-25,Rangpur,Male,Single,Higher Education,Middle class,Yes,31-60,No,Yes,No,No,Yes,5,Yes,No,No,Yes,Yes,satisfied
+26-35,Other,Male,Single,Higher Education,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,dissatisfied
+16-25,Nilphamari,Male,Single,Higher Education,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,5,Yes,Yes,Yes,Yes,Yes,satisfied
+16-25,Nilphamari,Male,Single,Higher Education,Middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,30,Yes,Yes,Yes,No,No,satisfied
+16-25,Nilphamari,Male,Single,Higher Education,Lower Class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,10,Yes,Yes,No,No,Yes,satisfied
+26-35,Nilphamari,Male,Married,Secondary,Lower middle class,Yes,0-30,Yes,Yes,Yes,Yes,Yes,15,Yes,Yes,Yes,No,Yes,dissatisfied
+16-25,Nilphamari,Male,Single,Secondary,Lower middle class,Yes,31-60,Yes,Yes,Yes,Yes,Yes,18,No,Yes,No,No,Neutral,satisfied
